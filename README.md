@@ -1,2 +1,2 @@
 # DomainInvestigation
-A simple script to investigate 
+A simple script to investigate a domain

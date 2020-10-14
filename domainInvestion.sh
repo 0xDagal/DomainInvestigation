@@ -36,21 +36,3 @@ while read sousDomaine; do
     done < portClosed    
     echo -e "\n"
 done < subDomains
-
-
-
-
-
-
-
-
-
-
-# echo -e "${ORANGE}Analyse adresses des sous-domaines en cours...${NC}"
-# dig -f subDomains | grep SERVER | cut -d ' ' -f 3 | cut -d '#' -f 1 > addrIPs
-# cat addrIPs
-# echo -e "${GREEN}Les adresses de ces sous-domaines sont repertoriés dans le fichier addrIPs${NC}"
-# echo -e "${ORANGE}Analyses nmap correspondantes...${NC}"
-# nmap -iL subDomains > ports
-# cat ports
-# echo -e "${GREEN}Les résultats sont situés dans le fichier ports${NC}"

@@ -38,3 +38,4 @@ Need [Sublist3r](https://github.com/aboul3la/Sublist3r) please refer to it insta
 - [ ] Sublist3r bruteforce option
 - [ ] Service version
 - [ ] CVE scan
+- [ ] Checking if CVEs are Metasploitable

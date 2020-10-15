@@ -25,6 +25,15 @@ Need [Sublist3r](https://github.com/aboul3la/Sublist3r) please refer to it insta
 
 ```pacma -S nmap```
 
+### Installation
+```curl -LJO https://github.com/dagal-secdev/DomainInvestigation/blob/main/domainInvestion.sh ```
+
+```chmod +x domainInvestion.sh [domainName] ```
+
+### Usage
+
+```./domainInvestion.sh```
+
 ## Improvement incoming 
 - [ ] Sublist3r bruteforce option
 - [ ] Service version

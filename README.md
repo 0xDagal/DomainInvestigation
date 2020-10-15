@@ -26,13 +26,13 @@ Need [Sublist3r](https://github.com/aboul3la/Sublist3r) please refer to it insta
 ```pacma -S nmap```
 
 ### Installation
-```curl -LJO https://github.com/dagal-secdev/DomainInvestigation/blob/main/domainInvestion.sh ```
+```curl -LJO https://github.com/dagal-secdev/DomainInvestigation/blob/main/domainInvestigation.sh ```
 
-```chmod +x domainInvestion.sh [domainName] ```
+```chmod +x domainInvestigation.sh [domainName] ```
 
 ### Usage
 
-```./domainInvestion.sh```
+```./domainInvestigation.sh```
 
 ## Improvement incoming 
 - [ ] Sublist3r bruteforce option

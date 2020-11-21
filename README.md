@@ -1,4 +1,6 @@
 # DomainInvestigation
+
+/!\ Go To [SubDomainIfo](https://github.com/Jonathan-DeLaforcade/getSubdomainInfo) made by some friends and we might add things to it in the future
 A simple script to investigate the different subdomains of known domain
 
 ## About
